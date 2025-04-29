@@ -1,2 +1,3 @@
-ls .. --sort=time --format=comma --indicator-style=slash --ignore=".*"
+ls . --sort=time --format=comma --indicator-style=slash --ignore=".*"
+
 
